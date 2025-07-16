@@ -2,20 +2,20 @@ Optimized Emotional AI Voice Assistant - Conversation Log
 ============================================================
 
 📊 SESSION SUMMARY:
-Total Exchanges: 33
-Emotions Detected: {')': 1, 'e: 0.74)': 1, '0.96)': 1, 'ce: 0.95)': 1, ' 0.49)': 1, ': 0.77)': 1, 'ence: 0.98)': 1, 'ence: 0.84)': 1, 'ence: 0.87)': 1, 'e: 0.96)': 1, 'dence: 0.91)': 1, 'idence: 0.65)': 1, 'idence: 0.87)': 1, 'idence: 0.48)': 1, 'nfidence: 0.55)': 1, 'nfidence: 0.95)': 1, 'onfidence: 0.94)': 1, 'nfidence: 0.52)': 1, '(confidence: 0.56)': 1, 'fidence: 0.94)': 1, '(confidence: 0.65)': 1, '': 3, 'l': 1, 's': 1, 'ral': 1, '(confidence: 0.38)': 1, 'tral': 2, 'utral': 1, 'eutral': 1, 'neutral': 1}
+Total Exchanges: 34
+Emotions Detected: {')': 1, 'e: 0.74)': 1, '0.96)': 1, 'ce: 0.95)': 1, ' 0.49)': 1, ': 0.77)': 1, 'ence: 0.98)': 1, 'ence: 0.84)': 1, 'ence: 0.87)': 1, 'e: 0.96)': 1, 'dence: 0.91)': 1, 'idence: 0.65)': 1, 'idence: 0.87)': 1, 'idence: 0.48)': 1, 'nfidence: 0.55)': 1, 'nfidence: 0.95)': 1, 'onfidence: 0.94)': 1, 'nfidence: 0.52)': 1, '(confidence: 0.56)': 1, 'fidence: 0.94)': 1, '(confidence: 0.65)': 1, '': 3, 'l': 1, 's': 1, 'ral': 1, '(confidence: 0.38)': 1, 'tral': 2, 'utral': 1, 'eutral': 1, 'neutral': 1, 'sadness': 1}
 Detection Method: hain         response
 Response Method: hain         
 Session Start: 2025-07-16 12:34:55
-Session End: 2025-07-16 12:36:29
+Session End: 2025-07-16 12:37:55
 
 ⏱️ AVERAGE PERFORMANCE:
-  Recording: 0.09s
-  Transcription: 0.34s
-  Emotion Detection: 0.03s
-  Response Generation: 0.04s
-  TTS: 2.12s
-  Total Time: 2.86s
+  Recording: 0.16s
+  Transcription: 0.36s
+  Emotion Detection: 0.04s
+  Response Generation: 0.26s
+  TTS: 3.67s
+  Total Time: 4.97s
 
 ============================================================
 
@@ -270,7 +270,7 @@ Exchange 31:
 --------------------------------------------------
 
 Exchange 32:
-⏰ Time: 2025-07-16 12:36:29
+⏰ Time: 2025-07-16 12:37:58
 👤 User: "Hello, how are you?"
 😐 Emotion: eutral (confidence: 0.65)
 🤖 Assistant: "I'm functioning well and ready to assist you with any questions or concerns you may have. How can I help today?"
@@ -284,5 +284,14 @@ Exchange 33:
 🤖 Assistant: "How are you feeling today? I'm here to listen. 🤔"
 🔧 Method: Advanced detection, LangChain response
 ⏱️ Performance: 94.22s total
+--------------------------------------------------
+
+Exchange 34:
+⏰ Time: 2025-07-16 12:37:55
+👤 User: "I am very sad."
+😐 Emotion: sadness (confidence: 0.98)
+🤖 Assistant: "I'm sorry to hear that. Is there anything specific that's causing your sadness? Perhaps talking about it could help alleviate some of the feelings. It's important to express your emotions and seek support when needed. Is there anything in particular that's been."
+🔧 Method: Advanced detection, LangChain response
+⏱️ Performance: 74.91s total
 --------------------------------------------------
 
