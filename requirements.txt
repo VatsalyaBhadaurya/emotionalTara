@@ -8,4 +8,7 @@ parler-tts
 tf-keras
 langchain
 langchain-community
-pyttsx3 
+pyttsx3
+google-cloud-speech
+Flask
+werkzeug 

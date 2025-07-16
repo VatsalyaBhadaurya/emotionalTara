@@ -2,296 +2,303 @@ Optimized Emotional AI Voice Assistant - Conversation Log
 ============================================================
 
 📊 SESSION SUMMARY:
-Total Exchanges: 34
-Emotions Detected: {')': 1, 'e: 0.74)': 1, '0.96)': 1, 'ce: 0.95)': 1, ' 0.49)': 1, ': 0.77)': 1, 'ence: 0.98)': 1, 'ence: 0.84)': 1, 'ence: 0.87)': 1, 'e: 0.96)': 1, 'dence: 0.91)': 1, 'idence: 0.65)': 1, 'idence: 0.87)': 1, 'idence: 0.48)': 1, 'nfidence: 0.55)': 1, 'nfidence: 0.95)': 1, 'onfidence: 0.94)': 1, 'nfidence: 0.52)': 1, '(confidence: 0.56)': 1, 'fidence: 0.94)': 1, '(confidence: 0.65)': 1, '': 3, 'l': 1, 's': 1, 'ral': 1, '(confidence: 0.38)': 1, 'tral': 2, 'utral': 1, 'eutral': 1, 'neutral': 1, 'sadness': 1}
-Detection Method: hain         response
-Response Method: hain         
-Session Start: 2025-07-16 12:34:55
-Session End: 2025-07-16 12:37:55
+Total Exchanges: 35
+Emotions Detected: {'': 3, ': 0.74)': 1, '.96)': 1, 'e: 0.95)': 1, '0.49)': 1, ' 0.77)': 1, 'nce: 0.98)': 1, 'nce: 0.84)': 1, 'nce: 0.87)': 1, ': 0.96)': 1, 'ence: 0.91)': 1, 'dence: 0.65)': 1, 'dence: 0.87)': 1, 'dence: 0.48)': 1, 'fidence: 0.55)': 1, 'fidence: 0.95)': 1, 'nfidence: 0.94)': 1, 'fidence: 0.52)': 1, 'confidence: 0.56)': 1, 'idence: 0.94)': 1, 'confidence: 0.65)': 1, '(confidence: 0.54)': 1, '(confidence: 0.48)': 1, '(confidence: 0.34)': 1, 'al': 1, 'confidence: 0.38)': 1, 'ral': 2, 'tral': 1, 'utral': 1, 'eutral': 1, 'adness': 1, 'joy': 1}
+Detection Method: ain         response
+Response Method: ain         
+Session Start: 2025-07-16 14:07:48
+Session End: 2025-07-16 14:10:17
 
 ⏱️ AVERAGE PERFORMANCE:
-  Recording: 0.16s
-  Transcription: 0.36s
-  Emotion Detection: 0.04s
-  Response Generation: 0.26s
-  TTS: 3.67s
-  Total Time: 4.97s
+  Recording: 0.09s
+  Transcription: 0.40s
+  Emotion Detection: 0.03s
+  Response Generation: 0.11s
+  TTS: 3.41s
+  Total Time: 4.25s
 
 ============================================================
 
 💬 DETAILED CONVERSATION:
 
 Exchange 1:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "I am very, very sad."
-😐 Emotion: ) (confidence: 0.00)
+😐 Emotion:  (confidence: 0.00)
 🤖 Assistant: "I'm here for you. It's okay to feel sad, and you're not alone. 💙"
-🔧 Method: hain         response detection, hain          response
+🔧 Method: ain         response detection, ain          response
 --------------------------------------------------
 
 Exchange 2:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "and"
-😐 Emotion: e: 0.74) (confidence: 0.00)
+😐 Emotion: : 0.74) (confidence: 0.00)
 🤖 Assistant: "How are you feeling today? I'm here to listen. 🤔"
-🔧 Method: , LangChain         response detection, LangChain          response
+🔧 Method:  LangChain         response detection,  LangChain          response
 --------------------------------------------------
 
 Exchange 3:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "I am very happy today, how are you?"
-😐 Emotion: 0.96) (confidence: 0.00)
+😐 Emotion: .96) (confidence: 0.00)
 🤖 Assistant: "As an artificial intelligence language model, I don't experience emotions like humans do"
-🔧 Method: n, LangChain         response detection, LangChain          response
+🔧 Method: , LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 4:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello."
-😐 Emotion: ce: 0.95) (confidence: 0.00)
+😐 Emotion: e: 0.95) (confidence: 0.00)
 🤖 Assistant: "[Neutral]"
-🔧 Method: n, LangChain         response detection, LangChain          response
+🔧 Method: , LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 5:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello all, how are you? I am very good today."
-😐 Emotion:  0.49) (confidence: 0.00)
+😐 Emotion: 0.49) (confidence: 0.00)
 🤖 Assistant: "I'm so happy for you! Your joy is contagious! 😊"
-🔧 Method: on, LangChain         response detection, LangChain          response
+🔧 Method: n, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 6:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you? I'm ready. Happy cooking."
-😐 Emotion: : 0.77) (confidence: 0.00)
+😐 Emotion:  0.77) (confidence: 0.00)
 🤖 Assistant: "Thank you! I'm here to assist you with any cooking-related questions or"
-🔧 Method: ion, LangChain         response detection, LangChain          response
+🔧 Method: on, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 7:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you? I am very sad today."
-😐 Emotion: ence: 0.98) (confidence: 0.00)
+😐 Emotion: nce: 0.98) (confidence: 0.00)
 🤖 Assistant: "[response_metadata={}, AIMessage(content="I'm sorry to hear that"
-🔧 Method: ion, LangChain         response detection, LangChain          response
+🔧 Method: on, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 8:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "On detect, congressman believes that this he is really good."
-😐 Emotion: ence: 0.84) (confidence: 0.00)
+😐 Emotion: nce: 0.84) (confidence: 0.00)
 🤖 Assistant: "[response_metadata={}, AIMessage(content="Thank you for sharing your thoughts"
-🔧 Method: ion, LangChain         response detection, LangChain          response
+🔧 Method: on, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 9:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "But if something tells the rape Then things will go on and it will get better. Everyday interceive If you go over the"
-😐 Emotion: ence: 0.87) (confidence: 0.00)
+😐 Emotion: nce: 0.87) (confidence: 0.00)
 🤖 Assistant: "[ ]"
-🔧 Method: ion, LangChain         response detection, LangChain          response
+🔧 Method: on, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 10:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello how are you? I'm very happy today."
-😐 Emotion: e: 0.96) (confidence: 0.00)
+😐 Emotion: : 0.96) (confidence: 0.00)
 🤖 Assistant: "Thank you for sharing your joy with me! It's always great to hear"
-🔧 Method: tion, LangChain         response detection, LangChain          response
+🔧 Method: ion, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 11:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "And also it's taking 100% is fine."
-😐 Emotion: dence: 0.91) (confidence: 0.00)
+😐 Emotion: ence: 0.91) (confidence: 0.00)
 🤖 Assistant: "[Neutral] Thank you for letting me know that everything is functioning correctly."
-🔧 Method: tion, LangChain         response detection, LangChain          response
+🔧 Method: ion, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 12:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you?"
-😐 Emotion: idence: 0.65) (confidence: 0.00)
+😐 Emotion: dence: 0.65) (confidence: 0.00)
 🤖 Assistant: "I'm functioning as intended, thank you for asking. How can I assist"
-🔧 Method: ction, LangChain         response detection, LangChain          response
+🔧 Method: tion, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 13:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "I'm going to use the first one, so I'm going to use that one. I'm going to use the first one."
-😐 Emotion: idence: 0.87) (confidence: 0.00)
+😐 Emotion: dence: 0.87) (confidence: 0.00)
 🤖 Assistant: "Hello, Talia. How can I assist you today?"
-🔧 Method: ction, LangChain         response detection, LangChain          response
+🔧 Method: tion, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 14:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "A. Clutch Muscle Cax"
-😐 Emotion: idence: 0.48) (confidence: 0.00)
+😐 Emotion: dence: 0.48) (confidence: 0.00)
 🤖 Assistant: "[Neutral] Hello, Talia. How can I assist you today?"
-🔧 Method: ction, LangChain         response detection, LangChain          response
+🔧 Method: tion, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 15:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you? How are you?"
-😐 Emotion: nfidence: 0.55) (confidence: 0.00)
+😐 Emotion: fidence: 0.55) (confidence: 0.00)
 🤖 Assistant: "I'm functioning at optimal capacity and ready to assist you with any questions or"
-🔧 Method: ection, LangChain         response detection, LangChain          response
+🔧 Method: ction, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 16:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, I am not feeling good today."
-😐 Emotion: nfidence: 0.95) (confidence: 0.00)
+😐 Emotion: fidence: 0.95) (confidence: 0.00)
 🤖 Assistant: "It's okay to feel sad sometimes, even if it's just for a"
-🔧 Method: tection, LangChain         response detection, LangChain          response
+🔧 Method: ection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 17:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello"
-😐 Emotion: onfidence: 0.94) (confidence: 0.00)
+😐 Emotion: nfidence: 0.94) (confidence: 0.00)
 🤖 Assistant: "Hi there! How can I help you today?"
-🔧 Method: etection, LangChain         response detection, LangChain          response
+🔧 Method: tection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 18:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "!!!!"
-😐 Emotion: nfidence: 0.52) (confidence: 0.00)
+😐 Emotion: fidence: 0.52) (confidence: 0.00)
 🤖 Assistant: "I'm sorry to hear that you're feeling angry. Can you tell me"
-🔧 Method: detection, LangChain         response detection, LangChain          response
+🔧 Method: etection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 19:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "sliding خل�� سوف تنسب!!"
-😐 Emotion: (confidence: 0.56) (confidence: 0.00)
+😐 Emotion: confidence: 0.56) (confidence: 0.00)
 🤖 Assistant: "slide! It's a fun and playful way to express yourself, but it"
-🔧 Method:  detection, LangChain         response
+🔧 Method: detection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 20:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, I am Betty happy today."
-😐 Emotion: fidence: 0.94) (confidence: 0.00)
+😐 Emotion: idence: 0.94) (confidence: 0.00)
 🤖 Assistant: "[AIMessage(content="Hello Betty! How can I help you today?","
-🔧 Method:  detection, LangChain         response
+🔧 Method: detection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 21:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you?"
-😐 Emotion: (confidence: 0.65) (confidence: 0.00)
+😐 Emotion: confidence: 0.65) (confidence: 0.00)
 🤖 Assistant: "[HumanMessage(content='I'm doing well, thank you for asking!',"
-🔧 Method:  detection, LangChain         response
+🔧 Method: detection, LangChain         response detection, LangChain          response
 --------------------------------------------------
 
 Exchange 22:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello Tara, how are you?"
-😐 Emotion:  (confidence: 0.54)
+😐 Emotion: (confidence: 0.54) (confidence: 0.00)
 🤖 Assistant: "I'm functioning as intended and ready to assist you with any questions or concerns you may have. How can I help today?"
-🔧 Method: d detection, LangChain        response
+🔧 Method:  detection, LangChain         response
 --------------------------------------------------
 
 Exchange 23:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Alright.歲... as I forgot some"
-😐 Emotion:  (confidence: 0.48)
+😐 Emotion: (confidence: 0.48) (confidence: 0.00)
 🤖 Assistant: "Hello again! It's nice to hear from you. Is there something specific you'd like to talk about or ask about? I'm here to listen and provide helpful responses. Just let me know what you need assistance with. [AIMessage(content="."
-🔧 Method: d detection, LangChain        response
+🔧 Method:  detection, LangChain         response
 --------------------------------------------------
 
 Exchange 24:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello"
-😐 Emotion: l (confidence: 0.94)
+😐 Emotion:  (confidence: 0.94)
 🤖 Assistant: "How are you feeling today? I'm here to listen. 🤔"
-🔧 Method: ed detection, LangChain       response
+🔧 Method: d detection, LangChain        response
 --------------------------------------------------
 
 Exchange 25:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "I am very sad."
-😐 Emotion: s (confidence: 0.98)
+😐 Emotion:  (confidence: 0.98)
 🤖 Assistant: "I'm sorry to hear that. It's okay to feel sad sometimes. Can you tell me more about what is causing your sadness? Sometimes it can be helpful to talk about our emotions and feelings with others. Would you like to share some thoughts or."
-🔧 Method: ed detection, LangChain       response
+🔧 Method: d detection, LangChain        response
 --------------------------------------------------
 
 Exchange 26:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "حييل الي"
-😐 Emotion:  (confidence: 0.34)
+😐 Emotion: (confidence: 0.34) (confidence: 0.00)
 🤖 Assistant: "امیدوارم که شما در رأی خسته و آرامش باعث می‌شود. اگر شما باید در دوستت‌ها و همه‌چی."
-🔧 Method: ced detection, LangChain      response
+🔧 Method: ed detection, LangChain       response
 --------------------------------------------------
 
 Exchange 27:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you?"
-😐 Emotion: ral (confidence: 0.65)
+😐 Emotion: al (confidence: 0.65)
 🤖 Assistant: "I'm functioning well and ready to assist you with any questions or concerns you may have. How can I help today?"
-🔧 Method: nced detection, LangChain     response
+🔧 Method: ced detection, LangChain      response
 --------------------------------------------------
 
 Exchange 28:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "talk about the of the� inan"
-😐 Emotion: (confidence: 0.38) (confidence: 0.00)
+😐 Emotion: confidence: 0.38) (confidence: 0.00)
 🤖 Assistant: "The "of" in "inanimate" refers to the absence of animate qualities or characteristics that give living things their ability to move, think, feel, and interact with the world around them. Inanimate objects do not possess consciousness, emotions, or."
-🔧 Method: nced detection, LangChain     response
+🔧 Method: ced detection, LangChain      response
 --------------------------------------------------
 
 Exchange 29:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: ", , , , , , , , , , , ,"
-😐 Emotion: tral (confidence: 0.63)
+😐 Emotion: ral (confidence: 0.63)
 🤖 Assistant: "Hello there! How can I assist you today? Is there anything on your mind that's been weighing on you or bothering you? It's always helpful to talk about our feelings and experiences, as it can help us better understand each other and find solutions."
-🔧 Method: anced detection, LangChain    response
+🔧 Method: nced detection, LangChain     response
 --------------------------------------------------
 
 Exchange 30:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "What is the time?"
-😐 Emotion: tral (confidence: 0.61)
+😐 Emotion: ral (confidence: 0.61)
 🤖 Assistant: "[Time]."
-🔧 Method: anced detection, LangChain    response
+🔧 Method: nced detection, LangChain     response
 --------------------------------------------------
 
 Exchange 31:
-⏰ Time: 2025-07-16 12:34:55
+⏰ Time: 2025-07-16 14:07:48
+👤 User: "Hello, how are you?"
+😐 Emotion: tral (confidence: 0.65)
+🤖 Assistant: "I'm functioning well and ready to assist you with any questions or concerns you may have. How can I help today?"
+🔧 Method: anced detection, LangChain    response
+--------------------------------------------------
+
+Exchange 32:
+⏰ Time: 2025-07-16 14:07:48
 👤 User: "Hello, how are you?"
 😐 Emotion: utral (confidence: 0.65)
 🤖 Assistant: "I'm functioning well and ready to assist you with any questions or concerns you may have. How can I help today?"
 🔧 Method: vanced detection, LangChain   response
 --------------------------------------------------
 
-Exchange 32:
-⏰ Time: 2025-07-16 12:37:58
-👤 User: "Hello, how are you?"
-😐 Emotion: eutral (confidence: 0.65)
-🤖 Assistant: "I'm functioning well and ready to assist you with any questions or concerns you may have. How can I help today?"
+Exchange 33:
+⏰ Time: 2025-07-16 14:07:48
+👤 User: "of only"
+😐 Emotion: eutral (confidence: 0.78)
+🤖 Assistant: "How are you feeling today? I'm here to listen. 🤔"
 🔧 Method: dvanced detection, LangChain  response
 --------------------------------------------------
 
-Exchange 33:
-⏰ Time: 2025-07-16 12:36:29
-👤 User: "of only"
-😐 Emotion: neutral (confidence: 0.78)
-🤖 Assistant: "How are you feeling today? I'm here to listen. 🤔"
-🔧 Method: Advanced detection, LangChain response
-⏱️ Performance: 94.22s total
+Exchange 34:
+⏰ Time: 2025-07-16 14:11:23
+👤 User: "I am very sad."
+😐 Emotion: adness (confidence: 0.98)
+🤖 Assistant: "I'm sorry to hear that. Is there anything specific that's causing your sadness? Perhaps talking about it could help alleviate some of the feelings. It's important to express your emotions and seek support when needed. Is there anything in particular that's been."
+🔧 Method: dvanced detection, LangChain  response
 --------------------------------------------------
 
-Exchange 34:
-⏰ Time: 2025-07-16 12:37:55
-👤 User: "I am very sad."
-😐 Emotion: sadness (confidence: 0.98)
-🤖 Assistant: "I'm sorry to hear that. Is there anything specific that's causing your sadness? Perhaps talking about it could help alleviate some of the feelings. It's important to express your emotions and seek support when needed. Is there anything in particular that's been."
+Exchange 35:
+⏰ Time: 2025-07-16 14:10:17
+👤 User: "Thank you, my time."
+😐 Emotion: joy (confidence: 0.70)
+🤖 Assistant: "You're welcome! Is there anything else I can assist you with today?"
 🔧 Method: Advanced detection, LangChain response
-⏱️ Performance: 74.91s total
+⏱️ Performance: 148.64s total
 --------------------------------------------------
 
