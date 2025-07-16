@@ -1,0 +1,161 @@
+{
+  "Optimized (LangChain + Caching)": {
+    "init_time": 19.194329738616943,
+    "avg_emotion_time": 0.04728379249572754,
+    "avg_response_time": 0.00020227432250976562,
+    "avg_total_time": 0.047486066818237305,
+    "phrase_results": [
+      {
+        "phrase": "I'm feeling really happy today!",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.1741175651550293,
+        "response_time": 0.0,
+        "total_time": 0.1741175651550293
+      },
+      {
+        "phrase": "I'm so sad and lonely right now",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.01810622215270996,
+        "response_time": 0.0,
+        "total_time": 0.01810622215270996
+      },
+      {
+        "phrase": "I'm really angry about what happened",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.014998674392700195,
+        "response_time": 0.0010113716125488281,
+        "total_time": 0.016010046005249023
+      },
+      {
+        "phrase": "I'm scared and worried about the future",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.014195919036865234,
+        "response_time": 0.0,
+        "total_time": 0.014195919036865234
+      },
+      {
+        "phrase": "Wow, that's amazing news!",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.015000581741333008,
+        "response_time": 0.0,
+        "total_time": 0.015000581741333008
+      }
+    ]
+  },
+  "Optimized (Direct Qwen + Caching)": {
+    "init_time": 10.857579708099365,
+    "avg_emotion_time": 0.01679959297180176,
+    "avg_response_time": 0.0,
+    "avg_total_time": 0.01679959297180176,
+    "phrase_results": [
+      {
+        "phrase": "I'm feeling really happy today!",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.0224153995513916,
+        "response_time": 0.0,
+        "total_time": 0.0224153995513916
+      },
+      {
+        "phrase": "I'm so sad and lonely right now",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.01570892333984375,
+        "response_time": 0.0,
+        "total_time": 0.01570892333984375
+      },
+      {
+        "phrase": "I'm really angry about what happened",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.016000032424926758,
+        "response_time": 0.0,
+        "total_time": 0.016000032424926758
+      },
+      {
+        "phrase": "I'm scared and worried about the future",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.014672040939331055,
+        "response_time": 0.0,
+        "total_time": 0.014672040939331055
+      },
+      {
+        "phrase": "Wow, that's amazing news!",
+        "emotion": "neutral",
+        "confidence": 0.5,
+        "response": "How are you feeling today? \ud83e\udd14",
+        "emotion_time": 0.015201568603515625,
+        "response_time": 0.0,
+        "total_time": 0.015201568603515625
+      }
+    ]
+  },
+  "Basic (No Caching)": {
+    "init_time": 10.706386089324951,
+    "avg_emotion_time": 0.00019998550415039061,
+    "avg_response_time": 0.0,
+    "avg_total_time": 0.00019998550415039061,
+    "phrase_results": [
+      {
+        "phrase": "I'm feeling really happy today!",
+        "emotion": "joy",
+        "confidence": 0.2,
+        "response": "I'm so happy to hear that! \ud83d\ude0a",
+        "emotion_time": 0.0,
+        "response_time": 0.0,
+        "total_time": 0.0
+      },
+      {
+        "phrase": "I'm so sad and lonely right now",
+        "emotion": "sadness",
+        "confidence": 0.2857142857142857,
+        "response": "I'm here for you. It's okay to feel sad. \ud83d\udc99",
+        "emotion_time": 0.0,
+        "response_time": 0.0,
+        "total_time": 0.0
+      },
+      {
+        "phrase": "I'm really angry about what happened",
+        "emotion": "anger",
+        "confidence": 0.16666666666666666,
+        "response": "I understand you're frustrated. Let's talk about it. \ud83d\udd25",
+        "emotion_time": 0.0,
+        "response_time": 0.0,
+        "total_time": 0.0
+      },
+      {
+        "phrase": "I'm scared and worried about the future",
+        "emotion": "fear",
+        "confidence": 0.2857142857142857,
+        "response": "You're safe here. I'm listening. \ud83d\udee1\ufe0f",
+        "emotion_time": 0.0,
+        "response_time": 0.0,
+        "total_time": 0.0
+      },
+      {
+        "phrase": "Wow, that's amazing news!",
+        "emotion": "joy",
+        "confidence": 0.25,
+        "response": "I'm so happy to hear that! \ud83d\ude0a",
+        "emotion_time": 0.0009999275207519531,
+        "response_time": 0.0,
+        "total_time": 0.0009999275207519531
+      }
+    ]
+  }
+}

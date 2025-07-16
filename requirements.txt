@@ -1,0 +1,11 @@
+whisper-openai
+sounddevice
+numpy
+scipy
+transformers
+torch
+parler-tts
+tf-keras
+langchain
+langchain-community
+pyttsx3 
